@@ -24,11 +24,11 @@ I developed a CI/CD pipeline for a basic website that deploys to a cluster in Am
 
 * master branch : Create Amazon EKS Cluster Pipeline
 
-![Create Amazon EKS Cluster Pipeline](Screenshots/Create-Cluster-Pipeline)
+![Create Amazon EKS Cluster Pipeline](Screenshots/Create-Cluster-Pipeline.png)
 
 * Deployment branch : CI/CD pipeline whith Blue/Green Deployment
 
-![CI/CD pipeline whith Blue/Green Deployment](Screenshots/Deployment-Pipeline)
+![CI/CD pipeline whith Blue/Green Deployment](Screenshots/Deployment-Pipeline.png)
 
 
 ## Project Requirement:
